@@ -4,7 +4,7 @@ export default function Footer () {
     return (
         <div className={styles.footer}>
             <div className={styles.links}>
-                <a href='https://github.com/' className={styles.links}>
+                <a href='https://github.com/DarylAranha/spacex-launch-program' className={styles.links}>
                     <i className="fa fa-github"> </i>
                 </a>
             </div>
