@@ -32,6 +32,7 @@ npm install && npm run build
 The above command will install all the necessary packages and also build the appliation.
 
 ## Live Demo
+https://spacex-launch-program.vercel.app/
 
 ## Images
 ![ScreenShot 1](application-screenshot/Screenshot-1.png)

@@ -1,1 +1,0 @@
-{"name":"space-x-launch","version":"0.1.0","description":"All launches by SpaceX.","scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"isomorphic-fetch":"^2.2.1","next":"9.3.5","react":"16.13.1","react-dom":"16.13.1"},"author":{"name":"darylaranha"},"license":"MIT","readme":"ERROR: No README data found!","_id":"space-x-launch@0.1.0"}
