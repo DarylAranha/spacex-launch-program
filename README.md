@@ -34,15 +34,15 @@ The above command will install all the necessary packages and also build the app
 ## Live Demo
 
 ## Images
-- ![ScreenShot 1](application-screenshot/Screenshot-1.png)
-- ![ScreenShot 2](application-screenshot/Screenshot-2.png)
-- ![ScreenShot 3](application-screenshot/Screenshot-3.png)
-- ![ScreenShot 4](application-screenshot/Screenshot-4.png)
+![ScreenShot 1](application-screenshot/Screenshot-1.png)
+![ScreenShot 2](application-screenshot/Screenshot-2.png)
+![ScreenShot 3](application-screenshot/Screenshot-3.png)
+![ScreenShot 4](application-screenshot/Screenshot-4.png)
 
 ## Performance
 
-- ![ScreenShot 1](application-screenshot/Screenshot-lighthouse-Desktop.png)
-- ![ScreenShot 2](application-screenshot/Screenshot-lighthouse-Moble.png)
+![ScreenShot 1](application-screenshot/Screenshot-lighthouse-Desktop.png)
+![ScreenShot 2](application-screenshot/Screenshot-lighthouse-Moble.png)
 
 ## Authors
 
