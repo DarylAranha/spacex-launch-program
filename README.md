@@ -10,7 +10,6 @@ A front-end application which would help users list and browse all launches by S
 - Image
 - Performance
 - Authors
-- License
 
 ## Getting Started
 
@@ -48,9 +47,3 @@ https://spacex-launch-program.vercel.app/
 ## Authors
 
 - Daryl Aranha - Initial work - [darylaranha](https://github.com/DarylAranha)
-
-## License
-
-This project is licensed under the MIT License
-
-
