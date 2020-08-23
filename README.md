@@ -28,6 +28,7 @@ There are 2 main folders, pages and components, and the program starts at index.
 To set up this application open your terminal and run the following command.
 ```
 npm install && npm run build
+npm start
 
 ```
 The above command will install all the necessary packages and also build the appliation.
