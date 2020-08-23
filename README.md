@@ -14,7 +14,7 @@ A front-end application which would help users list and browse all launches by S
 
 ## Getting Started
 
-**React** run in the core of this application but the problem with using React is its used for client side rendering. The best feature of React is that it can be used for both client side and server side and to acheive this I am using [**Next.js**](https://nextjs.org/) framwork.
+**React** run in the core of this application but the problem with using React is its used for client side rendering. React can also be run in the server side and that is the best feature of React. To acheive server side rendering I am using [**Next.js**](https://nextjs.org/) framework.
 
 The working of this application is very simple, The landing page is rendered in the server and the reset of the view is handled in client side, i.e. the browser.
 
