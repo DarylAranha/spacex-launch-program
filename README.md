@@ -17,6 +17,8 @@ A front-end application which would help users list and browse all launches by S
 
 The working of this application is very simple, The landing page is rendered in the server and the reset of the view is handled in client side, i.e. the browser.
 
+There are 2 main folders, pages and components, and the program starts at index.js which is present in the pages folder.
+
 ### Prerequisites
 
 [Node](https://nodejs.org/en/) (version 10.13 and above)

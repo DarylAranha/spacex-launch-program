@@ -43,7 +43,7 @@ export default function Filters (props) {
                 </div>
                 
                 <div className={styles.filters}>
-                    <div className={styles.filterHero}> Sucessful Launch </div>
+                    <div className={styles.filterHero}> Successful Launch </div>
                     <div className={styles.filterContentOption}>
                         <button 
                             onClick={() => props.handleFilterSucessfulLaunch(true)}
@@ -58,7 +58,7 @@ export default function Filters (props) {
                 </div>
                 
                 <div className={styles.filters}>
-                    <div className={styles.filterHero}> Sucessful Landing </div>
+                    <div className={styles.filterHero}> Successful Landing </div>
                     <div className={styles.filterContentOption}>
                         <button 
                             onClick={() => props.handleFilterSucessfulLanding(true)}

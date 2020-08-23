@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import fetch from 'isomorphic-fetch';
-// importing components
+// importing custom components
 import Header from '../components/header';
 import Main from '../components/main';
 import Footer from '../components/footer';
@@ -34,7 +34,6 @@ export default function Index({ launchData }) {
 }
 
 export async function getStaticProps(context) {
-    
     const response = await fetch('https://api.spaceXdata.com/v3/launches?limit=100');
     const jsonResponse = await response.json();
     
