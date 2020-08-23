@@ -21,12 +21,12 @@ export default function Filters (props) {
     }
 
     let filterSucessfulLaunchButtonClass = [styles.filterButton];
-    if (props.filters.sucessfulLaunch !== null) {
+    if (typeof(props.filters.sucessfulLaunch) === "boolean") {
         filterSucessfulLaunchButtonClass.push(styles.filterButtonClicked);
     }
 
     let filterSucessfulLandingButtonClass = [styles.filterButton];
-    if (props.filters.sucessfulLanding !== null) {
+    if (typeof(props.filters.sucessfulLanding) === "boolean") {
         filterSucessfulLandingButtonClass.push(styles.filterButtonClicked);
     }
 
